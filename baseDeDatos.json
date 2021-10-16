@@ -1,0 +1,190 @@
+{
+    "discos": [
+        {
+            "id": "a001",
+            "galleryOrder": 1,
+            "name": "Un infimo hilo de luz (PM)",
+            "autor": "Juan Arabel",
+            "imageMin": "./build/img/thumb/1.webp",
+            "linkSpotify": "https://open.spotify.com/album/5oyuBs4iJHvKI4RmkQqfww",
+            "linkYoutube": "https://www.youtube.com/watch?v=p_hkpIEgGb8&t=1832s"
+        },
+        {
+            "id": "a002",
+            "galleryOrder": 2,
+            "name": "Amar la Tierra (PM)",
+            "autor": "Juan Arabel",
+            "imageMin": "./build/img/thumb/2.webp",
+            "linkSpotify": "https://open.spotify.com/album/5tINQ7vCgkf35NEJJnmjF0",
+            "linkYoutube": "https://www.youtube.com/watch?v=oFk6RfFdS2k&list=OLAK5uy_kfjaNY6SdPHSoC4c7V-vJ3b5wyuuzN8kA"
+        },
+        {
+            "id": "a003",
+            "galleryOrder":3,
+            "name": "Cauce (PM)",
+            "autor": "Jose Gonzalez",
+            "imageMin":"./build/img/thumb/3.webp",
+            "linkSpotify": "https://open.spotify.com/album/3DuD5jGrKJBYTGh8XN3R6w",
+            "linkYoutube": "https://www.youtube.com/watch?v=9BdspYRphMs"
+            
+        },
+        {
+            "id": "a004",
+            "galleryOrder": 4,
+            "name": "Domingo (PM)",
+            "autor": "Memi Vietto",
+            "imageMin":"./build/img/thumb/4.webp",
+            "linkSpotify": "https://open.spotify.com/album/6Quu8fYS4j022hFYCfBh2I",
+            "linkYoutube": "https://www.youtube.com/watch?v=8czfidHwIhw&t=654s"
+                       
+        },
+        {
+            "id": "a005",
+            "galleryOrder":5,
+            "name": "Barrio (PM)",
+            "autor": "Juan Arabel",
+            "imageMin":"./build/img/thumb/5.webp",
+            "linkSpotify": "https://open.spotify.com/album/4qQGQXfD3uX0SvU0vNBNdf",
+            "linkYoutube": "https://www.youtube.com/watch?v=LZBSomLzgN8&t=190s"
+           
+        },
+        {
+            "id": "a006",
+            "galleryOrder":6,
+            "name": "Lumbre (P)",
+            "autor": "Fede Lucero",
+            "imageMin":"./build/img/thumb/6.webp",
+            "linkSpotify": "https://open.spotify.com/album/2TwQsZUvteBV55W2YQb9XY?highlight=spotify:track:4WxBWBJrNVIM696wKENpCw",
+            "linkYoutube": "https://www.youtube.com/watch?v=5ElpzPbwqtQ"
+        },
+        {
+            "id":"a007",
+            "galleryOrder":7,
+            "name": "Afuera (RPM)",
+            "autor": "Mauro Gentile",
+            "imageMin":"./build/img/thumb/7.webp",
+            "linkSpotify": "https://open.spotify.com/album/2joLHfEFBPfxaU9QYRfpvL",
+            "linkYoutube": "https://www.youtube.com/watch?v=LPUIXPRtOeI&list=OLAK5uy_k-iaDVsjEXQ08twuwqy6wnB6Pq2fk-UP4"
+        },
+        {
+            "id":"a008",
+            "galleryOrder":8,
+            "name":"Trama Oculta (RPM)",
+            "autor": "Malu Maldonado",
+            "imageMin":"./build/img/thumb/8.webp",
+            "linkSpotify": "https://open.spotify.com/album/5hD7ZvUqoSnvI35KeeTPlr",
+            "linkYoutube": "https://www.youtube.com/watch?v=MpqsRn_hjCs"
+        },
+        
+        {
+            "id":"a010",
+            "galleryOrder": 10,
+            "name": "Las Curanderas (RPM)",
+            "autor": "Malu Maldonado",
+            "imageMin":"./build/img/thumb/10.webp",
+            "linkSpotify": "https://open.spotify.com/album/0BL9YeZA6ihnVuVg8aU1eL",
+            "linkYoutube": "https://www.youtube.com/watch?v=lItJX0Zdp8o"
+        },
+        {
+            "id": "a011",
+            "galleryOrder":11,
+            "name": "Plegaria (RPM)",
+            "autor": "Juan Arabel",
+            "imageMin":"./build/img/thumb/11.webp",
+            "linkSpotify": "https://open.spotify.com/album/0zHXgKKEf0VhtXVYNOhERu",
+            "linkYoutube": "https://www.youtube.com/watch?v=d6wAfDH9xEQ"
+        },
+        {
+            "id": "a012",
+            "galleryOrder":12,
+            "name": "3dias (RP)",
+            "autor": "Fede Lucero",
+            "imageMin":"./build/img/thumb/12.webp",
+            "linkSpotify": "https://open.spotify.com/album/6XGAzasyeiFgp8Fm54Qyzp",
+            "linkYoutube": "https://www.youtube.com/watch?v=RyG9X7c9iV4"
+        },
+        {
+            "id":"a013",
+            "galleryOrder":13,
+            "name": "Brota (RPM)",
+            "autor": "ViviPozzebon",
+            "imageMin":"./build/img/thumb/13.webp",
+            "linkSpotify":"https://open.spotify.com/album/4X0Y3LiBCwQdF2dew5oSoe?highlight=spotify:track:2CH4cM5LHv63IdDU5DwP9Z",
+            "linkYoutube":"https://www.youtube.com/watch?v=cE7hIzaMdCk"        
+        },
+        {
+            "id": "a014",
+            "galleryOrder":14,
+            "name": "Deseos (RPM)",
+            "autor": "Juan Arabel",
+            "imageMin":"./build/img/thumb/14.webp",
+            "linkSpotify": "https://open.spotify.com/album/4qk3dc9h7JqOzDl3a7BNRd",
+            "linkYoutube": "https://www.youtube.com/watch?v=bPGo3gV5WCM"
+        },
+        {
+            "id": "a015",
+            "galleryOrder":15,
+            "name": "Creacion (RPM)",
+            "autor": "Juan Arabel",
+            "imageMin":"./build/img/thumb/15.webp",
+            "linkSpotify": "https://open.spotify.com/album/4EoJgyqHQHL2qMm0UHgVBH",
+            "linkYoutube": "https://www.youtube.com/watch?v=T-LhYetbmQs"
+        },
+        {
+            "id": "a016",
+            "galleryOrder":16,
+            "name": "Rincones (RPM)",
+            "autor": "Claudia Guerrero",
+            "imageMin":"./build/img/thumb/16.webp",
+            "linkSpotify": "https://open.spotify.com/album/2TDgwOQ8PYoDz7VmbqJbEI",
+            "linkYoutube": "https://www.youtube.com/watch?v=CrJRwEK9_PU"
+        },
+        {
+            "id":"a017",
+            "galleryOrder":17,
+            "name":"Trigo (RPM)",
+            "autor": "Juan Arabel",
+            "imageMin":"./build/img/thumb/17.webp",
+            "linkSpotify": "https://open.spotify.com/album/29R3MOU1h9qh0Q4cJClS7J",
+            "linkYoutube": "https://www.youtube.com/watch?v=BhbKcfjmTy8"
+        },
+        {
+            "id":"a018",
+            "galleryOrder":18,
+            "name":"Pájara (M)",
+            "autor": "Clara Presta",
+            "imageMin":"./build/img/thumb/18.webp",
+            "linkSpotify": "https://open.spotify.com/album/5K2kOfpiJgFdlG4NXoCu5i",
+            "linkYoutube": "https://www.youtube.com/watch?v=dOyLca3tPo8&t=224s"
+        },
+        {
+            "id":"a019",
+            "galleryOrder":19,
+            "name":"Corazón de Chacarera (RPM)",
+            "autor": "Umbral Santiagueño",
+            "imageMin":"./build/img/thumb/19.webp",
+            "linkSpotify": "https://open.spotify.com/album/032UQmX0SdnyrLAGIFhaq3",
+            "linkYoutube": "https://www.youtube.com/watch?v=wnDFR-acebE&list=OLAK5uy_ksAEqZWezTjc9dEftTcmkXvi3n9VFf0Bw"
+        },
+        {
+            "id":"a020",
+            "galleryOrder":20,
+            "name":"Pulso Natural (RPM)",
+            "autor": "Mauro Gentile",
+            "imageMin":"./build/img/thumb/20.webp",
+            "linkSpotify": "https://open.spotify.com/album/5sbZ2g4Cq7zbOoxkhOnuWj",
+            "linkYoutube": "https://www.youtube.com/watch?v=n98x59b3twk"
+        },
+
+        {
+            "id":"a021",
+            "galleryOrder":21,
+            "name":"Hermano (RPM)",
+            "autor": "Fede Lucero",
+            "imageMin":"./build/img/thumb/21.webp",
+            "linkSpotify": "https://open.spotify.com/album/1GTjNmIh8PT8R0XeUOT5ub?highlight=spotify:track:1NvTloOPKB63UyOQYzYzq5",
+            "linkYoutube": "https://www.youtube.com/watch?v=vwMq2EQmyQk"
+        }
+
+    ]
+}
